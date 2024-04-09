@@ -4,3 +4,7 @@ h1 {
 img {
   width: 50%;
 }
+h3 {
+  color: red;
+  background-color: yellow;
+}
